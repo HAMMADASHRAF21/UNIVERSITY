@@ -1,0 +1,22 @@
+.home__img
+{
+
+    height: 98vh;
+    width: 100%;
+
+}
+.home > h1 {
+     position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  
+  
+}
+
+
+.home{
+    position: relative;
+    text-align: center;
+    color: white;
+}

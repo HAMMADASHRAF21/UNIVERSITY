@@ -1,0 +1,46 @@
+.header__link
+{
+    padding: 10px;
+   
+        text-decoration: none;
+        font-weight: 1000;
+        font-size: 20px;
+        font-family: 'Bignoodletitling';
+    
+}
+
+.header__link:hover
+{
+    color: #D0CECF;
+    
+    border-radius: 50px;
+    padding: 10px;
+}
+
+
+
+.header{
+    border: thistle;
+   
+    display: flex;
+padding: 20px;
+background-color:#00002D;
+align-items: center;
+	position: sticky;
+    top: 0;
+    justify-content: space-evenly;
+
+}
+
+ Appbars > Tabs > Link > Tab {
+    text-decoration: none!important;
+
+}
+.MuiTab-root{
+
+    text-decoration:none!important;
+}
+.MuiTypography-h6 > link{ 
+
+    text-decoration: none!important;
+}
